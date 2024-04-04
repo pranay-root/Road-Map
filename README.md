@@ -157,8 +157,8 @@ Follow these steps to install Kali Linux in VirtualBox:
 You have now successfully installed Kali Linux in VirtualBox. 
 
 ## Alternative Method
-Skip installation and download already installed Virtual Machine (VM) You can watch this video for that: ``` https://youtu.be/9GL-hDqMXwY ``` (video language Telugu)
-Additionally you can use the prebuilt ova file in virtual box.Download the file from the below link and right click on the file and open with virtual box your kali linux will be ready.
+1. Skip installation and download already installed Virtual Machine (VM) You can watch this video for that: ``` https://youtu.be/9GL-hDqMXwY ``` (video language Telugu).
+2. Or else you can use the prebuilt ova file in virtual box. Download the file from the below link and right click on the file and open with virtual box your kali linux will be ready.
 ```
 https://drive.google.com/file/d/1vNU0K6EmWKThGTbRNtjEGWwCxX1tgn08/view?usp=sharing
 ```
