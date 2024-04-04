@@ -213,7 +213,7 @@ The terminal is your command-line interface. Open it by right-clicking on the de
 
 ### Full Command List
 ```
-https://gist.github.com/heobay/8431305
+https://github.com/pranay-root/CEH_Practical_Cmds
 ```
 
 ## Conclusion
