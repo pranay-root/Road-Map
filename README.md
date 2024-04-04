@@ -534,6 +534,13 @@ The diverse motivations and activities of hackers highlight the complexity of th
 ## Conclusion
 Being aware of these common types of cyber attacks is essential for individuals and organizations to implement effective cybersecurity measures and protect against potential threats. Regular security awareness training and staying updated on emerging threats are key elements of a robust cybersecurity strategy.
 
+# For Further Information you can go throught this links:
+```
+https://roadmap.sh/cyber-security
+```
+```
+https://tinyurl.com/53hwbu78
+```
 
 
 
